@@ -1,6 +1,8 @@
 # ENGL-2260
 Auburn American Literature After 1865 Group Eportfolio 
 
+<https://mattcatz.github.io/engl-2260/>
+
 Your eportfolio is a website that your group creates to showcase the thought and work you've done in this class this semester.  The group eportfolio will collectively examine the connection between literature and just one of the following themes:
 
 - Civil Rights
