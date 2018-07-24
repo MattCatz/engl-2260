@@ -1,0 +1,15 @@
+<div class="member-cards">
+{% for member in site.members %}
+  <div class="container">
+    <div class="avatar-flip">
+      <img src="http://media.idownloadblog.com/wp-content/uploads/2012/04/Phil-Schiller-headshot-e1362692403868.jpg" height="150" width="150">
+      <img src="http://i1112.photobucket.com/albums/k497/animalsbeingdicks/abd-3-12-2015.gif~original" height="150" width="150">
+    </div>
+    <h2>{{member.name}}</h2>
+    <h4>{{member.major}}</h4>
+    <p>{{member.about}}</p>
+    {% include button.html text="Reading Memoir" link=member.memoir %}
+    {% include button.html text="Final Analysis" link=member.analysis %}
+  </div>
+{% endfor %}
+</div>

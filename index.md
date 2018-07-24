@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+This semester our group has studied war in literature and how that overlaps and
+contributes to the ideas of America. This site serves to document our analyses
+into the subject.
