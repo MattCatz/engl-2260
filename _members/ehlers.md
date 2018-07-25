@@ -4,8 +4,8 @@ title: Kyle
 
 portrait: ""
 name: Kyle Ehlers
-major: Auburn University
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+major: Auburn University Software Engineering
+about: Enjoys sports and outdoors.
 ---
 ## Lorem ipsum dolor sit amet
 
