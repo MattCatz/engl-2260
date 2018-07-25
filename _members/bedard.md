@@ -4,8 +4,8 @@ title: Matthew
 
 portrait: ""
 name: Matthew Bedard
-major: Auburn University
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+major: Auburn University Electrical Engineering
+about: I like Building things.
 ---
 ## Lorem ipsum dolor sit amet
 
