@@ -10,6 +10,7 @@ $white: white;
 @import "{{ site.theme }}";
 @import "member_cards";
 @import "button";
+@import "timeline";
 
 body {
       font-family: helvetica;
