@@ -1,7 +1,19 @@
 ---
 ---
 
-$lemon: #EEB62F;
+$white: white;
+// $background-color: #343a4e;
+// $brand-color: #2a7ae2;
+
+
+
+@import "{{ site.theme }}";
+@import "member_cards";
+@import "button";
+
+body {
+      font-family: helvetica;
+}
 
 .centered {
     display: flex;
@@ -9,6 +21,23 @@ $lemon: #EEB62F;
     justify-content: center;
 }
 
-@import "{{ site.theme }}";
-@import "member_cards";
-@import "button";
+// Minima overides
+
+.site-header {
+  border-top: 1em solid $grey-color-dark;
+  border-bottom: 2pt solid $grey-color-light;
+  min-height: 3.4rem;
+}
+
+.wrapper {
+  max-width: 80vw;
+}
+
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+// End Manima overides

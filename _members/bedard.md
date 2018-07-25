@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: profile
 title: Matthew
 
 portrait: ""
 name: Matthew Bedard
 major: Auburn University
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+about: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 ## Lorem ipsum dolor sit amet
 

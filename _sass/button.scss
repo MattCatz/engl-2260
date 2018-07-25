@@ -1,13 +1,17 @@
 .button {
    border-style: solid;
    border-width: 2pt;
-   border-color: $lemon;
-   color: $lemon;
+   border-color: $brand-color;
+   color: $brand-color;
    height: 2rem;
    margin: 1em;
 
+   &:visited {
+      color: $brand-color;
+   }
+
    &:hover {
-      background-color: $lemon;
-      color: white;
+      background-color: $brand-color;
+      color: $white;
    }
 }

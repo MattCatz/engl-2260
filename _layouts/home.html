@@ -9,6 +9,10 @@ layout: default
 
   {{ content }}
 
-  {% include member_cards.html %}
+  <div class="member-cards">
+  {% for member in site.members %}
+    {% include profile_card.html profile=member%}
+  {% endfor %}
+  </div>
 
 </div>
