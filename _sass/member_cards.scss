@@ -3,7 +3,7 @@
 
 .member-cards {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   width: 100%;
   flex-wrap: wrap;
 
@@ -20,8 +20,8 @@
 .container {
   flex-basis: 15rem;
   min-width: 22rem;
-  margin: 4rem 1rem;
-  background-color: $white;
+  margin: 2rem 0 2rem 0;
+  background-color: $foreground;
   padding: 0 2pt 2pt;
   border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -30,17 +30,4 @@
   -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
   -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
   text-align: center;
-}
-
-.avatar-flip {
-  border-radius: 100px;
-  overflow: hidden;
-  height: 150px;
-  width: 150px;
-  position: relative;
-  margin: auto;
-  top: -60px;
-  box-shadow: 0 0 0 13px $background-color;
-  -webkit-box-shadow: 0 0 0 13px $background-color;
-  -moz-box-shadow: 0 0 0 13px $background-color;
 }

@@ -1,12 +1,6 @@
-<div class="container">
-  <div class="avatar-flip">
-    <img src="http://media.idownloadblog.com/wp-content/uploads/2012/04/Phil-Schiller-headshot-e1362692403868.jpg" height="150" width="150">
-    <img src="http://i1112.photobucket.com/albums/k497/animalsbeingdicks/abd-3-12-2015.gif~original" height="150" width="150">
-  </div>
+<div class="container material">
   <h2>{{include.profile.name}}</h2>
   <h4>{{include.profile.major}}</h4>
   <p>{{include.profile.about}}</p>
-  {% assign url = include.profile.url | relative_url %}
-  {% include button.html text="Reading Memoir" link=url %}
-  {% include button.html text="Final Analysis" link="include.profile.analysis" %}
+  {% include button.html text="About" link="" %}
 </div>

@@ -6,8 +6,8 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  {{ content }}
+  
+  <div class="about material">{{ content }}</div>
 
   <div class="member-cards">
   {% for member in site.members %}
@@ -15,7 +15,22 @@ layout: default
   {% endfor %}
   </div>
   
-  <div class="timeline">
+  <div class="papers material">
+    <h2>Download Essays</h2>
+    <ul class="downloads">
+    <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <li>{% include button.html text="Overview essay" link="" %}</li>
+    <li>{% include button.html text="Final Analysis" link="" %}</li>
+    <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <li>{% include button.html text="Overview essay" link="" %}</li>
+    <li>{% include button.html text="Final Analysis" link="" %}</li>
+    <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <li>{% include button.html text="Overview essay" link="" %}</li>
+    <li>{% include button.html text="Final Analysis" link="" %}</li>
+    </ul>
+  </div>
+  
+  <div class="timeline-container material">
     {% include timeline.html%}
   </div>
 
