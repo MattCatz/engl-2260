@@ -2,5 +2,6 @@
   <h2>{{include.profile.name}}</h2>
   <h4>{{include.profile.major}}</h4>
   <p>{{include.profile.about}}</p>
-  {% include button.html text="About" link="" %}
+  {% assign url = include.profile.url | relative_url %}
+  {% include button.html text="About" link=url %}
 </div>
