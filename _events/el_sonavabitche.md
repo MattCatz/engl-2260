@@ -1,7 +1,7 @@
 ---
 artifacts: Artifact
 position: right
-title: El sonavabitche
+title: El sonavabitche (1987)
 order: 8
 thumbnail: 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Borderlands_La_Frontera_%28Anzaldua_book%29.jpg/220px-Borderlands_La_Frontera_%28Anzaldua_book%29.jpg'
 ---

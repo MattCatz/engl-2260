@@ -1,7 +1,7 @@
 ---
 artifacts: Artifact
 position: right
-title: Battle Royal
+title: Battle Royal (1947)
 order: 6
 thumbnail: 'https://swh-826d.kxcdn.com/wp-content/uploads/2012/05/Ralph-Ellison-Battle-Royal.jpg'
 ---

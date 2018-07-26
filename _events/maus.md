@@ -1,6 +1,6 @@
 ---
 artifacts: Artifact
-title: Maus Trap
+title: Maus Trap (1987}
 order: 7
 thumbnail: 'https://images-na.ssl-images-amazon.com/images/I/5197%2BrKH4WL._SX342_BO1,204,203,200_.jpg'
 ---

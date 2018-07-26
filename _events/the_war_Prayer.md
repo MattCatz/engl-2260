@@ -1,7 +1,7 @@
 ---
 artifacts: Artifact
 position: right
-title: The War Prayer
+title: The War Prayer (1916)
 order: 4
 thumbnail: 'https://www.kelmscottbookshop.com/pictures/medium/31935.jpeg'
 ---

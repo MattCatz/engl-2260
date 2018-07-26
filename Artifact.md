@@ -1,17 +1,28 @@
 ---
 layout: page
-title: Artifact
+title: Artifacts Relating to The Private History of the Campaign that Failed
 permalink: /Artifact/
 ---
-1.
+<center><h1>Artifacts Relating to The Private History of the Campaign that Failed</h1></center>
 
-![image-title-here](https://kbimages1-a.akamaihd.net/f67d956e-a375-4af4-a578-175334971d64/353/569/90/False/the-private-history-of-a-campaign-that-failed.jpg){:class="img-responsive"}
-This is a test of the artifact system
+<center><h2>1.</h2></center>
 
-2.
+<center><img src="https://i.pinimg.com/originals/2b/e8/e5/2be8e5050b756aac2b0f131b1f96f686.jpg" alt="drawing" width="600px"/>
 
-![Artifact 2](https://kbimages1-a.akamaihd.net/f67d956e-a375-4af4-a578-175334971d64/353/569/90/False/the-private-history-of-a-campaign-that-failed.jpg){:class="img-responsive"}
-This is a test of the artifact system
+<center><h4><p>This Artifact from the civil war is a tombstone of a little girl, That was struck and fractured with a cannon ball.</p><h4>
+
+<!-- pintrest -->
 
 
-[HOME](/engl-2260/){: .btn}
+
+<center><h2>2.</h2></center>
+
+<center><img src="https://metaldetectingforum.com/attachment.php?s=74e4b498de0fcdf25ce78e98a183ff31&attachmentid=110929&stc=1&d=1314382094" alt="drawing" width="600px"/></center>
+
+<center><h4><p>Here are some Trumpet mouth pieces dug up on a civil war battle field.</p><h4>
+
+<!-- https://metaldetectingforum.com/showthread.php?t=84269 -->
+
+
+<div>{% include button.html text="Home" link="/engl-2260/" %}</div>
+

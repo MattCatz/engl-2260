@@ -1,7 +1,7 @@
 ---
 artifacts: Artifact
-title: Barn Burning
-order: 10
+title: Barn Burning (1939)
+order: 5
 thumbnail: 'https://swh-826d.kxcdn.com/wp-content/uploads/2012/05/William-Faulkner-Barn-Burning.png'
 ---
 

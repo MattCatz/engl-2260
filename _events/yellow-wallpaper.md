@@ -1,7 +1,7 @@
 ---
 artifacts: Artifact
 position: right
-title: The Yellow Wallpaper
+title: The Yellow Wallpaper (1892)
 order: 2
 thumbnail: '//upload.wikimedia.org/wikipedia/en/thumb/c/cb/Yellowwp_med.jpg/200px-Yellowwp_med.jpg'
 ---
