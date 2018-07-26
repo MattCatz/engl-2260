@@ -1,8 +1,8 @@
 ---
 artifacts: Artifact
-position: 
+position:
 title: The Private History of the Campaign that Failed
-data: 1
+order: 1
 thumbnail: 'https://kbimages1-a.akamaihd.net/f67d956e-a375-4af4-a578-175334971d64/353/569/90/False/the-private-history-of-a-campaign-that-failed.jpg'
 ---
 

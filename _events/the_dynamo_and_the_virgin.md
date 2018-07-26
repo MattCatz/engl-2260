@@ -1,8 +1,8 @@
 ---
 artifacts: Artifact
-position: 
+position:
 title: The Dynamo and the Virgin
-data: 3
+order: 3
 thumbnail: 'https://image.slidesharecdn.com/adamspicsanddiagrams-140124154756-phpapp01/95/henry-adams-pics-and-diagrams-for-dynamo-and-the-virgin-1-638.jpg?cb=1390578610'
 ---
 
