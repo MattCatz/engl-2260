@@ -3,35 +3,34 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
   
-  <div class="about material">{{ content }}</div>
+  <div class="fill-sc">
+    <div class="title centered"><h1>War in America</h1></div>
+    <div class="about centered material">{{ content }}</div>
+  </div>
 
-  <div class="member-cards">
+  <div class="member-cards item">
   {% for member in site.members %}
     {% include profile_card.html profile=member%}
   {% endfor %}
   </div>
   
-  <div class="papers material">
+  <div class="timeline-container material item">
+    {% include timeline.html%}
+  </div>
+  <div class="papers material item">
     <h2>Download Essays</h2>
     <ul class="downloads">
-	<!-- Matthew Bedard --> <li>{% include button.html text="Reading Memoir" link="" %}</li>
-	<!-- Matthew Cather --> <li>{% include button.html text="Reading Memoir" link="" %}</li>
-	<!-- Kyle Ehlers-->     <li>{% include button.html text="Reading Memoir" link="" %}</li>
-	<!-- Matthew Bedard --> <li>{% include button.html text="Overview essay" link="" %}</li>
-	<!-- Matthew Cather -->	<li>{% include button.html text="Overview essay" link="" %}</li>
-	<!-- Kyle Ehlers -->	<li>{% include button.html text="Overview essay" link="" %}</li>
-	<!-- Matthew Bedard --> <li>{% include button.html text="Final Analysis" link="" %}</li>
-	<!-- Matthew Cather. --><li>{% include button.html text="Final Analysis" link="" %}</li>
-	<!-- Kyle Ehlers -->	<li>{% include button.html text="Final Analysis" link="" %}</li>
+    <!-- Matthew Bedard --> <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <!-- Matthew Cather --> <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <!-- Kyle Ehlers-->     <li>{% include button.html text="Reading Memoir" link="" %}</li>
+    <!-- Matthew Bedard --> <li>{% include button.html text="Overview essay" link="" %}</li>
+    <!-- Matthew Cather -->	<li>{% include button.html text="Overview essay" link="" %}</li>
+    <!-- Kyle Ehlers -->	<li>{% include button.html text="Overview essay" link="" %}</li>
+    <!-- Matthew Bedard --> <li>{% include button.html text="Final Analysis" link="" %}</li>
+    <!-- Matthew Cather. --><li>{% include button.html text="Final Analysis" link="" %}</li>
+    <!-- Kyle Ehlers -->	<li>{% include button.html text="Final Analysis" link="" %}</li>
     </ul>
-  </div>
-  
-  <div class="timeline-container material">
-    {% include timeline.html%}
   </div>
 
 </div>

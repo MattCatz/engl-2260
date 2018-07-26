@@ -4,7 +4,8 @@
 $foreground: white;
 $white: $foreground;
 $background: #EEEEEE;
-$primary: #1564bf;
+$primary: #d2232a;
+$brand-color: $primary;
 $primary-light: #5e91f2;
 $primary-dark: #003b8e;
 $primary-text: #ffffff;
@@ -12,6 +13,13 @@ $secondary: #00acc1;
 $secondary-light: #5e91f2;
 $secondary-dark: #003b8e;
 $secondary-text: #000000;
+$spacing-unit: 30px !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
 
 @mixin prefix($prop, $val) {
 	@each $prefix in '-webkit-', '-moz-', '-ms-', '' {
@@ -35,23 +43,21 @@ $secondary-text: #000000;
 
 }
 
-@import "{{ site.theme }}";
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// @import "{{ site.theme }}";
+@import "footer";
 @import "member_cards";
 @import "button";
 @import "timeline";
-
-body {
-  background-color: $background;
-  background-image: linear-gradient(45deg, transparent 45%, rgba(0, 0, 0, 0.01) 50%, transparent 55%, transparent 100%), linear-gradient(-45deg, transparent 45%, rgba(0, 0, 0, 0.02) 50%, transparent 55%, transparent 100%);
-  background-size: 8px 8px;
-  background-position: 4px 4px;
-}
-
-.material {
-  @include box_shadow(1);
-  background-color: $foreground;
-  border-radius: 6px;
-}
 
 body {
       font-family: helvetica;
@@ -63,8 +69,28 @@ body {
     justify-content: center;
 }
 
+.title {
+  height: 100vh;
+  width: 100vw;
+  color: $primary;
+  font-size:4rem;
+  background-image: url(/engl-2260/assets/war.jpg);
+  background-size: 100vw;
+  align-items: flex-start;
+}
+
+.material {
+  @include box_shadow(1);
+  background-color: $foreground;
+}
+
 .about {
-  padding: 1rem;
+    height: 100vh;
+    width: 100vw;
+    background-color: $primary;
+    color: $primary-text;
+    padding: 0px 17vw 0 17vw;
+    font-size: 2rem;
 }
 
 .papers {
@@ -82,14 +108,6 @@ body {
 
 // Minima overides
 
-.site-header {
-  @include box_shadow(4);
-  border-top: .5em solid $primary-dark;
-  background-color: $primary;
-  border-bottom: none;
-  min-height: 3.4rem;
-}
-
 .site-title{
   color: $primary-text;
   &:visited {
@@ -102,18 +120,27 @@ body {
   color: $primary-text;
 }
 
-.wrapper {
-  max-width: 80vw;
+body {
+  margin: 0;
 }
 
 .home {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 10% 1fr 10%;
+  justify-items: center;
+  grid-gap: 1rem;
+  background-color: #EEEEEE;
+  
+  .fill-sc {
+    grid-column: 1/4;
+  }
+  
+  .item {
+    grid-column: 2;
+  }
 }
 
-.site-nav {
+header {
   display: none;
 }
 

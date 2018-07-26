@@ -71,13 +71,13 @@ $timeline-color: $primary-color;
 
 		.timeline-icon {
 			background: $timeline-color;
-			width: 50px;
-			height: 50px;
+			width: 17px;
+			height: 17px;
 			position: absolute;
-			top: 0;
+			top: 18px;
 			left: 50%;
 			overflow: hidden;
-			margin-left: -23px;
+			margin-left: -7px;
 			@include prefix(border-radius, 50%);
 
 			svg {
