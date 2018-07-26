@@ -5,7 +5,7 @@ title: Matthew
 portrait: ""
 name: Matthew Bedard
 major: Auburn University Electrical Engineering
-about: I like Building things.
+about: I am a huge aviation and robotics advocate. I enjoys solving problems and building things..
 ---
 ## Lorem ipsum dolor sit amet
 
