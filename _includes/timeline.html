@@ -1,41 +1,19 @@
 
-	  <h2>Timeline of events</h2>
+<h2>Timeline of events</h2>
 		<div id="timeline">
 		  
 		  {% for event in site.events %}
 		    <div class="timeline-item">
-		      <div class="timeline-icon">{% include star.html %}</div>
-		      <div class="timeline-content">
-		        <h2>{{event.title}}</h2>
+		      <div class="timeline-icon">{% include book.html %}</div>
+		      <div class="timeline-content {{event.position}}">
+		        <center><h2>{{event.title}}</h2>
 		        <img class="timeline-thumb" src="{{event.thumbnail}}">
 		        {{event.content}}
+			
+				<center><a href="{{event.artifacts}}" class="btn">Artifacts</a>
+				
 		      </div>
 		    </div>
 		  {% endfor%}
 
-			<div class="timeline-item">
-				<div class="timeline-icon">
-          {% include book.html %}
-				</div>
-				<div class="timeline-content right">
-					<h2>LOREM IPSUM DOLOR</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
-					</p>
-					<a href="#" class="btn">button</a>
-				</div>
-			</div>
-
-			<div class="timeline-item">
-				<div class="timeline-icon">
-          {% include star.html%}
-				</div>
-				<div class="timeline-content">
-					<h2>LOREM IPSUM DOLOR</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
-					</p>
-					<a href="#" class="btn">button</a>
-				</div>
-			</div>
 		</div>
