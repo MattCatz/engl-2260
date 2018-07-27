@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Throughout the semester our group focused on the theme of war throughout literature. One aspect of this the many, and sometimes unconventional, forms that war can take. Another aspect is the war ingrained in our culture. Lastly is the cultural wars in society and the intersectionality of them and those fighting them. This portfolio documents our journey through this semester.
