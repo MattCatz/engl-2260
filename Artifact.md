@@ -3,6 +3,7 @@ layout: default
 title: Artifacts Relating to The Private History of the Campaign that Failed
 permalink: /Artifact/
 ---
+<div>{% include button.html text="Home" link="/engl-2260/" %}</div>
 <hr>
 <center><h1>Artifacts Relating to The Private History of the Campaign that Failed</h1></center>
 
