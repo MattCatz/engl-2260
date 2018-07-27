@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="post-container centered">
 <article class="post">
 
   {% include profile_card.html profile=page%}
@@ -8,7 +9,6 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
-
-  <div>{% include button.html text="Home" link="/engl-2260/" %}</div>
-
 </article>
+<div class="special-button">{% include button.html text="Home" link="/engl-2260/" %}</div>
+</div>

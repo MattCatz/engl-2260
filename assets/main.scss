@@ -118,6 +118,21 @@ h2 {
 	}
 }
 
+.post-container {
+	width:100vw;
+	flex-direction: column;
+
+	.special-button {
+		width: 95vw
+	}
+}
+
+.post {
+	width: 49rem;
+	flex-direction: column;
+	margin-top: 3rem;
+}
+
 // Minima overides
 
 .site-title{

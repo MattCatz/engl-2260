@@ -8,8 +8,6 @@ major: Computer Engineering
 about: Enjoys cooking, Stand-up paddle boarding and Climbing
 ---
 ## Our World Through Literature
-Literature: writings in prose or verse; especially : writings having excellence of form or
-expression and expressing ideas of permanent or universal interest [Merriam-Webster]
 
 Literature influences who I am. While unconventional I consider math and science texts to be an important part of literature. This concept was my gateway to appreciating literature.
 Some of my earliest memories reading start around the release of the third Harry Potter
