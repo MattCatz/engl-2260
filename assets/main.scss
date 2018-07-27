@@ -71,7 +71,6 @@ body {
 
 .title {
   height: 100vh;
-  width: 100vw;
   color: $primary;
   font-size:4rem;
   background-image: url(/engl-2260/assets/war.jpg);
@@ -86,7 +85,6 @@ body {
 
 .about {
     height: 100vh;
-    width: 100vw;
     background-color: $primary;
     color: $primary-text;
     padding: 0px 17vw 0 17vw;
@@ -97,7 +95,7 @@ body {
   width: 100%;
   margin-bottom: 2rem;
   padding: 1rem;
-  
+
   .downloads {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -130,11 +128,11 @@ body {
   justify-items: center;
   grid-gap: 1rem;
   background-color: #EEEEEE;
-  
+
   .fill-sc {
     grid-column: 1/4;
   }
-  
+
   .item {
     grid-column: 2;
   }

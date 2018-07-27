@@ -18,5 +18,3 @@ Et munere dolore corpora vis, ea eam nostrum maiestatis intellegebat, ut per viv
 Nobis forensibus his at, vis eu mundi quidam legendos, ad cum homero consetetur. Pro ne elit ignota menandri, ei pro quis expetenda, et vel tacimates facilisis. Et purto adhuc sit, quo invidunt atomorum ad. Eu mei blandit interesset, has graecis partiendo ne. Ex saepe fastidii voluptaria sit, mediocrem petentium conceptam vel te, ius ea quidam ponderum. Homero accusata reprehendunt eu pro, eam mundi labitur at.
 
 Mea an delenit qualisque, et congue cetero ius. In sed tempor quaeque. At impetus feugait pri, duo eligendi accusata et. No errem cotidieque per. Debet tacimates ut sed.
-
-<div>{% include button.html text="Home" link="/engl-2260/" %}</div>

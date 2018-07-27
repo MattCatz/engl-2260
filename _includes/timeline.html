@@ -6,11 +6,10 @@
 		    <div class="timeline-item">
 		      <div class="timeline-icon">{% include book.html %}</div>
 		      <div class="timeline-content {% cycle "left", "right" %}">
-		       <center> <h2>{{event.title}}</h2></center>
-		       <center> <img class="timeline-thumb" src="{{event.thumbnail}}">
+		       <h2>{{event.title}}</h2>
+		       <img class="timeline-thumb" src="{{event.thumbnail}}">
 		        {{event.content}}
-				
-           <center> <a href="{{event.artifacts}}" class="btn">Artifacts</a></center>
+           <a href="{{event.artifacts}}" class="btn">Artifacts</a>
 		      </div>
 		    </div>
 		  {% endfor%}

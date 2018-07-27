@@ -1,8 +1,10 @@
 ---
 artifacts: Artifact
 title: Maus Trap (1987}
-order: 7
+order: 1987
 thumbnail: 'https://images-na.ssl-images-amazon.com/images/I/5197%2BrKH4WL._SX342_BO1,204,203,200_.jpg'
 ---
 
-"The Yellow Wallpaper" (original title: "The Yellow Wall-paper. A Story") is a short story by American writer Charlotte Perkins Gilman, first published in January 1892 in The New England Magazine. It is regarded as an important early work of American feminist literature, illustrating attitudes in the 19th century toward women's health, both physical and mental.
+Art Spiegelman's Maus-which is a "graphic novel," a book-length sequential narrative using pictures, a cartoon- book-functions in a quite different way: where the typical cartoon desensitizes us to violence, Spiegelman sensitizes us, despite the fact that he traps his characters within visual stereotypes that threaten to destroy their sensibilities.[source][1]
+
+[1]:https://sci-hub.tw/10.2307/489940

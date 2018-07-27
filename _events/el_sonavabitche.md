@@ -2,8 +2,10 @@
 artifacts: Artifact
 position: right
 title: El sonavabitche (1987)
-order: 8
+order: 1987
 thumbnail: 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Borderlands_La_Frontera_%28Anzaldua_book%29.jpg/220px-Borderlands_La_Frontera_%28Anzaldua_book%29.jpg'
 ---
 
-"The Yellow Wallpaper" (original title: "The Yellow Wall-paper. A Story") is a short story by American writer Charlotte Perkins Gilman, first published in January 1892 in The New England Magazine. It is regarded as an important early work of American feminist literature, illustrating attitudes in the 19th century toward women's health, both physical and mental.
+Borderlands/La Frontera: The New Mestiza [1987] is a semi-autobiographical work by Gloria E. Anzaldúa that includes prose and poems detailing the invisible "borders" that exist between Latinas/os and non-Latinas/os, men and women, heterosexuals and homosexuals, and other groups.[source][1]
+
+[1]:https://en.wikipedia.org/wiki/Borderlands/La_Frontera:_The_New_Mestiza

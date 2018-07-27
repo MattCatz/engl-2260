@@ -2,8 +2,10 @@
 artifacts: Artifact
 position: right
 title: Battle Royal (1947)
-order: 6
+order: 1947
 thumbnail: 'https://swh-826d.kxcdn.com/wp-content/uploads/2012/05/Ralph-Ellison-Battle-Royal.jpg'
 ---
 
-"The Yellow Wallpaper" (original title: "The Yellow Wall-paper. A Story") is a short story by American writer Charlotte Perkins Gilman, first published in January 1892 in The New England Magazine. It is regarded as an important early work of American feminist literature, illustrating attitudes in the 19th century toward women's health, both physical and mental.
+"Battle Royal", a section of the 1952 novel Invisible Man. It addresses many of the social and intellectual issues facing African Americans early in the twentieth century, including black nationalism, the relationship between black identity and Marxism, and the reformist racial policies of Booker T. Washington, as well as issues of individuality and personal identity. [source][1]
+
+[1]:https://en.wikipedia.org/wiki/Invisible_Man

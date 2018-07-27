@@ -1,8 +1,10 @@
 ---
 artifacts: Artifact
 title: Barn Burning (1939)
-order: 5
+order: 1939
 thumbnail: 'https://swh-826d.kxcdn.com/wp-content/uploads/2012/05/William-Faulkner-Barn-Burning.png'
 ---
 
-"The Yellow Wallpaper" (original title: "The Yellow Wall-paper. A Story") is a short story by American writer Charlotte Perkins Gilman, first published in January 1892 in The New England Magazine. It is regarded as an important early work of American feminist literature, illustrating attitudes in the 19th century toward women's health, both physical and mental.
+"Barn Burning" is a short story by the American author William Faulkner which first appeared in Harper's in June 1939 (pp. 86-96) and has since been widely anthologized. The story deals with class conflicts, the influence of fathers, and vengeance as viewed through the third-person perspective of a young, impressionable child.[source][1]
+
+[1]:https://en.wikipedia.org/wiki/Barn_Burning
