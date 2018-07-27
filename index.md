@@ -5,4 +5,7 @@
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Through ceaseless development, Group 1 has explored every inch of the theme of WAR. 
+This glorious website rose up from the ashes, To convey our groups deep understanding and respect for our topic.
+The website is broken down into four Items. The first is each author has a section where they express their experience with literature. 
+Then onto the timeline where each one of the books and author that our group explored has a brief description. Then the Artifacts that either protein to the story directly or in the theme where it explores the themes of the work in another setting. Then Finally there is a section where the authors collected works are easily accessible.
