@@ -1,6 +1,12 @@
 <div class="container material">
+  <div class="avatar-flip">
+    <img src="{{include.profile.portrait}}">
+  </div>
   <h2>{{include.profile.name}}</h2>
-  <h4>{{include.profile.major}}</h4>
+  <div>
+    <h4>Auburn University</h4>
+    <h4>{{include.profile.major}}</h4>
+  </div>
   <p>{{include.profile.about}}</p>
   {% assign url = include.profile.url | relative_url %}
   {% include button.html text="About" link=url %}

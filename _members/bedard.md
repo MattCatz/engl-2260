@@ -2,10 +2,10 @@
 layout: profile
 title: Matthew
 
-portrait: ""
+portrait: "/engl-2260/assets/profile-1.jpg"
 name: Matthew Bedard
-major: Auburn University Electrical Engineering
-about: I enjoys solving problems and building things.
+major: Electrical Engineering
+about: I enjoy solving problems and building things.
 ---
 ## My Wonderous Involvement with Literature
 

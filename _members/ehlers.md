@@ -2,9 +2,9 @@
 layout: profile
 title: Kyle
 
-portrait: ""
+portrait: "/engl-2260/assets/profile-3.jpg"
 name: Kyle Ehlers
-major: Auburn University Software Engineering
+major: Software Engineering
 about: Enjoys sports and outdoors.
 ---
 ## Lorem ipsum dolor sit amet

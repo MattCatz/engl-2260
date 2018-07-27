@@ -6,6 +6,7 @@
   justify-content: space-between;
   width: 100%;
   flex-wrap: wrap;
+  margin-top: 2vh;
 
   h2 {
     font-size: 32px;
@@ -13,7 +14,7 @@
   h4 {
     color: $brand-color;
     letter-spacing: 0.06em;
-    margin-bottom: 2em;
+    margin: .5em;
   }
 }
 
@@ -27,4 +28,24 @@
   -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
   -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.avatar-flip {
+  @include box_shadow(2);
+  border-radius: 100px;
+  overflow: hidden;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  margin: auto;
+  top: -60px;
+
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
 }

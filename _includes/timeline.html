@@ -9,8 +9,8 @@
 		       <h2>{{event.title}}</h2>
 		       <img class="timeline-thumb" src="{{event.thumbnail}}">
 		        {{event.content}}
-           <a href="{{event.artifacts}}" class="btn">Artifacts</a>
 		      </div>
 		    </div>
 		  {% endfor%}
 		</div>
+		{% include button.html text="Artifacts Relavent to Timeline" link="/engl-2260/Artifact/" %}

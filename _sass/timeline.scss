@@ -37,6 +37,10 @@ $timeline-color: $primary-color;
 
 .timeline-container {
   padding: 1rem;
+
+		.button {
+			height: 4rem;
+		}
 }
 
 // Timeline
@@ -63,7 +67,7 @@ $timeline-color: $primary-color;
 		display: table;
 		width: 100%;
 	}
-	
+
 	.timeline-item {
 		margin-bottom: 50px;
 		position: relative;
@@ -144,12 +148,12 @@ $timeline-color: $primary-color;
 		&:before {
 			left: 0;
 		}
-		
+
 		.timeline-item {
 			.timeline-content {
 				width: 90%;
 				float: right;
-				
+
 				&:before, &.right:before {
 					left: 10%;
 					margin-left: -6px;

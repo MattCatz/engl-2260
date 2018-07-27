@@ -2,11 +2,9 @@
 layout: profile
 title: Matthew
 
-portrait: ""
+portrait: "/engl-2260/assets/profile-2.jpg"
 name: Matthew Cather
-major: >-
-  Auburn University
-  Computer Engineering
+major: Computer Engineering
 about: Enjoys cooking, Stand-up paddle boarding and Climbing
 ---
 ## Our World Through Literature
